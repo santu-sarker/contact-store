@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#login_navbar li {
+  margin-right: 10px;
+}
+
+#login_navbar li a {
+  color: white;
+}
+
+#login_navbar li a:hover,
+:focus,
+:active {
+  color: #c0b7b7;
+}
+
+body {
+  background-color: #f0f2f5;
+}
+
+.main_div input {
+  border: 1px solid grey;
+}
+
+.register_head {
+  border: 1px solid black;
+  background-color: #eaf6f7;
+}
+
+div#messages small {
+  border: 1px solid red;
+  padding: 5px;
+}
+
+input::-webkit-input-placeholder {
+  text-align: center;
+}
+
+@media screen and (max-width: 650px) {
+  #first_name {
+    margin-bottom: 20px;
+  }
+}
+/*# sourceMappingURL=login.css.map */
