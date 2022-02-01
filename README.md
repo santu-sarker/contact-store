@@ -15,7 +15,28 @@ To Check databse information,check database_details.txt file
 
 **Project Screenshots:**
 
+**login Page**
 
 
+![Login page preview](/images/login_page.png)
 
+
+**Registration Page**
+
+
+![registration page preview](/images/registration_page.png)
+
+**Home Page**
+
+
+![home page preview](/images/homepage.png)
+
+**New Contact Modal**
+
+![Add new contact](/images/new_contact.png)
+
+
+**Delete Contact Modal**
+
+![Delete contact](/images/delete_contact.png)
 
